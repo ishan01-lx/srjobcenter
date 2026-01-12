@@ -17,15 +17,15 @@ const Index = () => {
           <div className="max-w-3xl mx-auto text-center">
             <div className="inline-flex items-center gap-2 rounded-full bg-accent/20 px-4 py-2 mb-6">
               <Shield className="h-4 w-4 text-accent" />
-              <span className="text-sm font-medium">Licensed Recruitment Agency</span>
+              <span className="text-sm font-medium">Registered Recruitment Agency</span>
             </div>
             
             <h1 className="heading-hero mb-6">
-              Genuine Job Opportunities in Nepal & Abroad
+              Genuine Job Opportunities in Kathmandu Valley
             </h1>
             
             <p className="text-body-lg text-primary-foreground/80 mb-8">
-              We connect hardworking Nepali professionals with verified employers worldwide. 
+              We connect hardworking Nepali professionals with verified employers inside valley. 
               No fake jobs, no hidden fees — just honest opportunities you can trust.
             </p>
             
