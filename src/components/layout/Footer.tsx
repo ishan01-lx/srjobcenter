@@ -12,7 +12,7 @@ const Footer = () => {
               <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-accent">
                 <Briefcase className="h-6 w-6 text-accent-foreground" />
               </div>
-              <span className="text-xl font-bold">SR Job Centre</span>
+              <span className="text-xl font-bold">S.R Job Center</span>
             </div>
             <p className="text-sm text-primary-foreground/80 leading-relaxed">
               Your trusted partner for genuine job opportunities in Nepal and abroad. 
@@ -64,7 +64,7 @@ const Footer = () => {
         <div className="mt-12 pt-8 border-t border-primary-foreground/20">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-primary-foreground/60">
-              © {new Date().getFullYear()} SR Job Centre. All rights reserved.
+              © {new Date().getFullYear()} S.R Job Center. All rights reserved.
             </p>
             <p className="text-sm text-primary-foreground/60">
               Licensed Recruitment Agency - Government of Nepal

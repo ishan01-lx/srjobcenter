@@ -20,16 +20,22 @@ const Header = () => {
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <nav className="container-custom flex h-16 items-center justify-between lg:h-20">
-        {/* Logo */}
-        <Link to="/" className="flex items-center gap-2">
-          <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary">
-            <Briefcase className="h-6 w-6 text-primary-foreground" />
-          </div>
-          <div className="flex flex-col">
-            <span className="text-lg font-bold text-primary">SR Job Centre</span>
-            <span className="text-xs text-muted-foreground">Genuine Opportunities</span>
-          </div>
-        </Link>
+       {/* Logo */}
+<Link to="/" className="flex items-center gap-2">
+  <img
+    src="/favicon.png"   // put your image in public folder
+    alt="S.R Job Center Logo"
+    className="h-14 w-14 rounded-lg object-contain"
+  />
+
+  <div className="flex flex-col">
+    <span className="text-lg font-bold text-primary text-yellow-600">S.R Job Center</span>
+    <span className="text-xs text-muted-foreground">
+      Genuine Opportunities
+    </span>
+  </div>
+</Link>
+
 
         {/* Desktop Navigation */}
         <div className="hidden lg:flex lg:items-center lg:gap-8">

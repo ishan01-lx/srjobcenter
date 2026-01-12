@@ -8,7 +8,7 @@ const About = () => {
       {/* Hero */}
       <section className="gradient-hero text-primary-foreground section-padding">
         <div className="container-custom text-center">
-          <h1 className="heading-hero mb-4">About SR Job Centre</h1>
+          <h1 className="heading-hero mb-4">About S.R Job Center</h1>
           <p className="text-body-lg text-primary-foreground/80 max-w-2xl mx-auto">
             Building trust through genuine opportunities since our founding. We believe every job seeker deserves honesty.
           </p>
@@ -109,7 +109,7 @@ const About = () => {
                 <h2 className="text-xl font-bold text-foreground mb-3">Important Notice: No Fake Jobs</h2>
                 <p className="text-body mb-4">
                   We are aware of fraudulent agencies that promise impossible salaries and dream jobs 
-                  that don't exist. At SR Job Centre, we take a firm stand against this:
+                  that don't exist. At S.R Job Center, we take a firm stand against this:
                 </p>
                 <ul className="space-y-2">
                   <li className="flex items-start gap-2 text-muted-foreground">

@@ -53,7 +53,7 @@ const Index = () => {
       <section className="section-padding bg-muted">
         <div className="container-custom">
           <div className="text-center mb-12">
-            <h2 className="heading-section text-foreground mb-4">Why Trust SR Job Centre?</h2>
+            <h2 className="heading-section text-foreground mb-4">Why Trust S.R Job Center?</h2>
             <p className="text-body max-w-2xl mx-auto">
               We are committed to transparency and integrity in every step of your job search journey.
             </p>
@@ -73,12 +73,12 @@ const Index = () => {
             <TrustBadge
               icon={Users}
               title="2000+ Placed"
-              description="Successfully helped over 2,000 Nepali workers find genuine employment abroad."
+              description="Successfully helped over more than 10,000 peoples find genuine employment"
             />
             <TrustBadge
               icon={Globe}
-              title="Global Network"
-              description="Trusted partnerships with employers across Gulf countries, Malaysia, Korea & more."
+              title="Strong Local Network"
+              description="We work closely with verified employers and organizations throughout Nepal to provide genuine opportunities"
             />
           </div>
         </div>
@@ -114,7 +114,7 @@ const Index = () => {
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="heading-section mb-6">Our Promise to You</h2>
             <p className="text-body-lg text-primary-foreground/80 mb-8">
-              At SR Job Centre, we understand that finding work abroad is a major life decision. 
+              At S.R Job Center, we understand that finding work abroad is a major life decision. 
               That's why we operate with complete transparency.
             </p>
             

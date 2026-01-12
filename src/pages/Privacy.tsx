@@ -13,7 +13,7 @@ const Privacy = () => {
               <section>
                 <h2 className="heading-section text-foreground mb-4">1. Information We Collect</h2>
                 <p className="text-body">
-                  At SR Job Centre, we collect information that you provide directly to us when you:
+                  At S.R Job Center, we collect information that you provide directly to us when you:
                 </p>
                 <ul className="list-disc list-inside text-muted-foreground mt-4 space-y-2">
                   <li>Contact us via WhatsApp, phone, email, or in person</li>

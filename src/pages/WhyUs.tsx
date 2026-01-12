@@ -63,7 +63,7 @@ const WhyUs = () => {
       {/* Hero */}
       <section className="gradient-hero text-primary-foreground section-padding">
         <div className="container-custom text-center">
-          <h1 className="heading-hero mb-4">Why Choose SR Job Centre?</h1>
+          <h1 className="heading-hero mb-4">Why Choose S.R Job Center?</h1>
           <p className="text-body-lg text-primary-foreground/80 max-w-2xl mx-auto">
             In a sea of recruitment agencies, here's what makes us different — and why thousands trust us.
           </p>
@@ -117,11 +117,11 @@ const WhyUs = () => {
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="heading-section text-foreground mb-6">Our Commitment</h2>
             <blockquote className="text-xl md:text-2xl text-foreground/80 italic leading-relaxed mb-6">
-              "We started SR Job Centre because we saw too many Nepali workers being exploited 
+              "We started S.R Job Center because we saw too many Nepali workers being exploited 
               by unethical agencies. Our mission is simple: provide genuine opportunities with 
               complete transparency. Every worker who trusts us becomes part of our family."
             </blockquote>
-            <p className="text-muted-foreground font-medium">— SR Job Centre Team</p>
+            <p className="text-muted-foreground font-medium">— S.R Job Center Team</p>
           </div>
         </div>
       </section>
@@ -131,7 +131,7 @@ const WhyUs = () => {
         <div className="container-custom text-center">
           <h2 className="heading-section mb-4">Ready to Find Your Opportunity?</h2>
           <p className="text-body-lg text-primary-foreground/80 mb-8 max-w-xl mx-auto">
-            Join thousands who have found genuine employment through SR Job Centre.
+            Join thousands who have found genuine employment through S.R Job Center.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a href="https://wa.me/9779800000000?text=Hello,%20I%20want%20to%20apply%20for%20a%20job" target="_blank" rel="noopener noreferrer">

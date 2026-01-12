@@ -13,7 +13,7 @@ const Terms = () => {
               <section>
                 <h2 className="heading-section text-foreground mb-4">1. Acceptance of Terms</h2>
                 <p className="text-body">
-                  By using SR Job Centre's services, you agree to be bound by these Terms and 
+                  By using S.R Job Center's services, you agree to be bound by these Terms and 
                   Conditions. If you do not agree with any part of these terms, please do not 
                   use our services.
                 </p>
@@ -22,7 +22,7 @@ const Terms = () => {
               <section>
                 <h2 className="heading-section text-foreground mb-4">2. Our Services</h2>
                 <p className="text-body">
-                  SR Job Centre provides recruitment and placement services connecting job seekers 
+                  S.R Job Center provides recruitment and placement services connecting job seekers 
                   with employers in Nepal and abroad. Our services include:
                 </p>
                 <ul className="list-disc list-inside text-muted-foreground mt-4 space-y-2">
@@ -77,7 +77,7 @@ const Terms = () => {
               <section>
                 <h2 className="heading-section text-foreground mb-4">6. Limitation of Liability</h2>
                 <p className="text-body">
-                  While we strive to provide accurate information and quality services, SR Job 
+                  While we strive to provide accurate information and quality services, S.R Job 
                   Centre is not liable for:
                 </p>
                 <ul className="list-disc list-inside text-muted-foreground mt-4 space-y-2">
@@ -114,7 +114,7 @@ const Terms = () => {
                   For questions about these terms, please contact:
                 </p>
                 <ul className="list-none text-muted-foreground mt-4 space-y-2">
-                  <li>SR Job Centre</li>
+                  <li>S.R Job Center</li>
                   <li>New Baneshwor, Kathmandu, Nepal</li>
                   <li>Email: info@srjobcentre.com</li>
                   <li>Phone: +977 9800000000</li>
