@@ -3,7 +3,7 @@ import { Button } from '@/components/ui/button';
 
 interface JobCardProps {
   title: string;
-  country: string;
+  location: string;
   salary: string;
   type: string;
   vacancies: number;
@@ -11,8 +11,8 @@ interface JobCardProps {
   description: string;
 }
 
-const JobCard = ({ title, country, salary, type, vacancies, deadline, description }: JobCardProps) => {
-  const whatsappMessage = encodeURIComponent(`Hello, I am interested in the ${title} position in ${country}. Please provide more details.`);
+const JobCard = ({ title, location, salary, type, vacancies, deadline, description }: JobCardProps) => {
+  const whatsappMessage = encodeURIComponent(`Hello, I am interested in the ${title} position in ${location}. Please provide more details.`);
   
   return (
     <div className="group rounded-xl border bg-card p-6 shadow-custom-sm transition-all duration-300 hover:shadow-custom-lg hover:border-accent/30">
@@ -21,7 +21,7 @@ const JobCard = ({ title, country, salary, type, vacancies, deadline, descriptio
           <h3 className="heading-card text-foreground group-hover:text-accent transition-colors">{title}</h3>
           <div className="mt-2 flex items-center gap-2 text-accent font-medium">
             <MapPin className="h-4 w-4" />
-            <span>{country}</span>
+            <span>{location}</span>
           </div>
         </div>
 
