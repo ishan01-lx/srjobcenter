@@ -85,8 +85,8 @@ const Privacy = () => {
                 </p>
                 <ul className="list-none text-muted-foreground mt-4 space-y-2">
                   <li>Email: info@srjobcentre.com</li>
-                  <li>Phone: +977 9800000000</li>
-                  <li>WhatsApp: +977 9800000000</li>
+                  <li>Phone: +977 9861804767</li>
+                  <li>WhatsApp: +977 9861804767</li>
                 </ul>
               </section>
             </div>

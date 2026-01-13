@@ -54,7 +54,7 @@ const Jobs = () => {
         मिल्दो रोजगारी उपलब्ध हुँदा जानकारी प्राप्त गर्नुहोस्।
       </p>
       <a
-        href="https://wa.me/9779800000000?text=Hello,%20I%20am%20looking%20for%20a%20specific%20type%20of%20job.%20Can%20you%20help?"
+        href="https://wa.me/9779861804767?text=Hello,%20I%20am%20looking%20for%20a%20specific%20type%20of%20job.%20Can%20you%20help?"
         target="_blank"
         rel="noopener noreferrer"
       >

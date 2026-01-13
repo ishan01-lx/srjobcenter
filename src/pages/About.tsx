@@ -149,7 +149,7 @@ const About = () => {
       जवाफ दिन हामी सधैं तयार छौं।
     </p>
     <a
-      href="https://wa.me/9779800000000?text=Hello,%20I%20have%20some%20questions%20about%20SR%20Job%20Centre"
+      href="https://wa.me/9779861804767?text=Hello,%20I%20have%20some%20questions%20about%20SR%20Job%20Centre"
       target="_blank"
       rel="noopener noreferrer"
     >

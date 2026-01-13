@@ -29,7 +29,7 @@ const Contact = () => {
                 हामीलाई छिटो पहुँच गर्ने सबैभन्दा सजिलो तरिका। रोजगारी, आवश्यकताहरू र आवेदन प्रक्रियाबारे तुरुन्त जवाफ पाउनुहोस्।
               </p>
               <a 
-                href="https://wa.me/9779800000000?text=नमस्ते,%20म%20रोजगारीको%20अवसर%20बारे%20जानकारी%20चाहन्छु" 
+                href="https://wa.me/9779861804767?text=नमस्ते,%20म%20रोजगारीको%20अवसर%20बारे%20जानकारी%20चाहन्छु" 
                 target="_blank" 
                 rel="noopener noreferrer"
               >
@@ -53,7 +53,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-1">फोन</h3>
-                    <a href="tel:+9779800000000" className="text-muted-foreground hover:text-accent transition-colors">
+                    <a href="tel:+9779861804767" className="text-muted-foreground hover:text-accent transition-colors">
                       +977 9861804767
                     </a>
                   </div>

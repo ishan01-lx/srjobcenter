@@ -49,7 +49,7 @@ const JobCard = ({ title, country, salary, type, vacancies, deadline, descriptio
 
         <div className="mt-auto">
           <a 
-            href={`https://wa.me/9779800000000?text=${whatsappMessage}`} 
+            href={`https://wa.me/9779861804767?text=${whatsappMessage}`} 
             target="_blank" 
             rel="noopener noreferrer"
             className="block"

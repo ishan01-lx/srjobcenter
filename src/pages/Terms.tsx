@@ -117,7 +117,7 @@ const Terms = () => {
                   <li>S.R Job Center</li>
                   <li>New Baneshwor, Kathmandu, Nepal</li>
                   <li>Email: info@srjobcentre.com</li>
-                  <li>Phone: +977 9800000000</li>
+                  <li>Phone: +977 9861804767</li>
                 </ul>
               </section>
             </div>
